@@ -1,0 +1,605 @@
+header {
+  position: absolute;
+width: 10000px;
+height: 286px;
+left: 380px;
+top: 0px;
+
+background: #000000;
+}
+
+.logo {
+  position: absolute;
+width: 380px;
+height: 286px;
+left: 0px;
+top: 0px;
+
+background: url(costao.jpeg);
+}
+
+p {
+  position: absolute;
+width: 10000px;
+height: 20px;
+top: 270px;
+left: 0px;
+
+background: #D9D9D9;
+}
+
+body {
+  background: #000000;
+}
+
+.estadual {
+  position: absolute;
+width: 1200px;
+height: 240px;
+top: -40px;
+left: 120px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 120px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.gu {
+  position: absolute;
+width: 500px;
+height: 500px;
+left: 32px;
+top: 575px;
+
+background: url(guga.jpg);
+border-radius: 36px;
+}
+
+.melhor {
+  position: absolute;
+width: 1600px;
+height: 120px;
+left: 130px;
+top: 270px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 70px;
+line-height: 120px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.linha {
+  position: absolute;
+width: 10000px;
+height: 20px;
+top: 444px;
+left: 0px;
+
+background: #D9D9D9;
+}
+
+.nome {
+  position: absolute;
+  width: 850px;
+  height: 0px;
+  left: 615px;
+  top: 427px;
+
+  font-family: 'Italianno';
+  font-style: normal;
+  font-weight: 400px;
+  font-size: 50px;
+  line-height: 200px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #FFFFFF;
+}
+
+.turma {
+  position: absolute;
+width: 870px;
+height: 71px;
+left: 615px;
+top: 530px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 200px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.idade {
+  position: absolute;
+width: 350px;
+height: 120px;
+left: 615px;
+top: 640px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 200px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.destaque {
+  position: absolute;
+width: 1300px;
+height: 120px;
+left: 540px;
+top: 780px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 120px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.materia1 {
+  position: absolute;
+width: 209px;
+height: 0px;
+left: 580px;
+top: 980px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 80px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.materia2 {
+  position: absolute;
+width: 300px;
+height: 0px;
+left: 900px;
+top: 980px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 80px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.materia3 {
+  position: absolute;
+width: 111px;
+height: 0px;
+left: 1310px;
+top: 980px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 80px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.materia4 {
+  position: absolute;
+width: 144px;
+height: 0px;
+left: 1550px;
+top: 980px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 80px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.linha2 {
+  position: absolute;
+width: 10000px;
+height: 20px;
+top: 1164px;
+left: 0px;
+
+background: #D9D9D9;
+}
+
+.alvise {
+  position: absolute;
+width: 500px;
+height: 500px;
+left: 32px;
+top: 1295px;
+
+background: url(alvise.jpg);
+border-radius: 36px;
+}
+
+.nome2 {
+  position: absolute;
+width: 790px;
+height: 88px;
+left: 615px;
+top: 1230px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 80px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.turma2 {
+  position: absolute;
+width: 890px;
+height: 104px;
+left: 615px;
+top: 1330px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 80px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+.idade2 {
+  position: absolute;
+width: 380px;
+height: 80px;
+left: 615px;
+top: 1430px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 80px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.destaque2 {
+  position: absolute;
+width: 1300px;
+height: 120px;
+left: 540px;
+top: 1510px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 120px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.materia5 {
+  position: absolute;
+width: 209px;
+height: 0px;
+left: 580px;
+top: 1710px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 80px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.materia6 {
+  position: absolute;
+width: 300px;
+height: 0px;
+left: 900px;
+top: 1710px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 80px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.materia7 {
+  position: absolute;
+width: 111px;
+height: 0px;
+left: 1310px;
+top: 1710px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 80px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.materia8 {
+  position: absolute;
+width: 133px;
+height: 0px;
+left: 1550px;
+top: 1710px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 80px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.coradin {
+  position: absolute;
+width: 500px;
+height: 500px;
+left: 32px;
+top: 2025px;
+
+background: url(corado.jpg);
+border-radius: 36px;
+}
+
+.linha3 {
+  position: absolute;
+width: 10000px;
+height: 20px;
+top: 1894px;
+left: 0px;
+
+background: #D9D9D9;
+}
+
+.nome3 {
+  position: absolute;
+width: 740px;
+height: 89px;
+left: 615px;
+top: 1960px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 80px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.turma3 {
+  position: absolute;
+width: 900px;
+height: 123px;
+left: 615px;
+top: 2060px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 80px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.idade3 {
+  position: absolute;
+width: 385px;
+height: 83.69px;
+left: 615px;
+top: 2160px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 80px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.destaque3 {
+  position: absolute;
+width: 1300px;
+height: 120px;
+left: 540px;
+top: 2240px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 120px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.materia9 {
+  position: absolute;
+width: 209px;
+height: 0px;
+left: 580px;
+top: 2440px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 80px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.materia10 {
+  position: absolute;
+width: 300px;
+height: 0px;
+left: 900px;
+top: 2440px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 80px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.materia11 {
+  position: absolute;
+width: 111px;
+height: 0px;
+left: 1310px;
+top: 2440px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 80px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.materia12 {
+  position: absolute;
+width: 133px;
+height: 0px;
+left: 1620px;
+top: 2440px;
+
+font-family: 'Italianno';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 80px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.insta {
+  position: absolute;
+width: 72px;
+height: 67px;
+left: 300px;
+top: 2600px;
+
+background: url(logoinsta.png);
+}
+
+.whats {
+  position: absolute;
+width: 72px;
+height: 67px;
+left: 900px;
+top: 2600px;
+
+background: url(logowhats.png);
+}
+
+.face {
+  position: absolute;
+width: 90px;
+height: 80px;
+left: 1500px;
+top: 2590px;
+
+background: url(logoface.png);
+}
